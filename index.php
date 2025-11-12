@@ -309,7 +309,7 @@ function getProficiencyWidth($level) {
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center mb-5">
-                    <h2 class="section-title">Professional Experience</h2>
+                    <h2 class="section-title">My Professional Experience</h2>
                     <p class="section-subtitle">My work history</p>
                 </div>
             </div>
